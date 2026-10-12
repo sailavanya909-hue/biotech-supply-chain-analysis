@@ -19,7 +19,7 @@ These are descriptive findings, not causal effects, verified cost savings, or ba
 
 ## Dashboard
 
-The dashboard includes strength/product cohort filters, volume-weighted monthly yield, product-code gap concentration, a yield–drug-release scatterplot, raw versus within-product associations, and a searchable batch/material-lineage explorer. An adjustable yield-review threshold is an analyst control, not a regulatory specification.
+The dashboard pairs a guided investigation with linked, interactive views: observed, batch-average, and fixed-product-mix yield over time; a cumulative gap-concentration chart; percentile distributions with individual batch points; product-mix and quarterly comparisons; configurable process/quality scatterplots; and a searchable batch/material-lineage explorer. Select a product or batch in a chart to carry it into the rest of the analysis. An adjustable yield-review threshold is an analyst control, not a regulatory specification.
 
 **[Open the live dashboard](https://sailavanya909-hue.github.io/biotech-supply-chain-analysis/)** · [Dashboard source](site/)
 

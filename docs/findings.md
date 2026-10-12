@@ -26,3 +26,13 @@ The batch explorer displays incoming API and excipient lineage. There are 238 AP
 4. **Business analyst:** specify the missing inputs required to estimate commercial impact: actual rejected quantities, rework, disposal, production schedules, costs, and approved quality specifications.
 
 The current data support descriptive manufacturing analysis. They do not support actual inventory depletion, supplier on-time delivery, expiry exposure, Boston-site performance, or realized financial savings.
+
+## How to read the interactive views
+
+The dashboard separates three different questions that can be blurred by one headline number:
+
+- **How much production is represented?** The timeline compares target-volume weighted yield, the equal-weight batch average, and a fixed product-mix view. The fixed-mix series uses each product code’s overall target-volume share in the selected cohort; monthly coverage shows which share has a batch that month. It is descriptive and does not control for every operating condition.
+- **Where is the absolute planning gap concentrated?** The ranked chart pairs each code’s positive target-equivalent gap with its cumulative share of the cohort total. A code can lead in gap because of volume while another has a lower yield percentage.
+- **How consistent are batches within a configuration?** The distribution chart shows each batch, the median and middle 50%, and the 10th–90th percentile range. Changing the ranking exposes low median, high spread, high volume, and high gap priorities. These percentiles are not quality specifications or control limits.
+
+The charts are linked: selecting a product code filters the dashboard, while selecting a batch opens its recorded incoming-material lineage. This gives an analyst a reproducible path from portfolio-level prioritization to a source batch record.
