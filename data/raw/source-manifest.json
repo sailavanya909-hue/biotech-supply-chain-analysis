@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Process.csv",
+    "article_id": 16676260,
+    "file_id": 30874192,
+    "download_url": "https://ndownloader.figshare.com/files/30874192",
+    "md5": "a7495d0cbdc1574f136ddc9a36d8e668",
+    "sha256": "68382e88104beb679acf66d0ec35177e0880e67c7a3d7e72dc60b1e3388410ce",
+    "bytes": 257208,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "name": "Laboratory.csv",
+    "article_id": 16676263,
+    "file_id": 30966250,
+    "download_url": "https://ndownloader.figshare.com/files/30966250",
+    "md5": "74b091a88dc88e0fed44f79877b22b66",
+    "sha256": "a3b0f16c7c3fa8052b38d767e38fda731a751acc4ec139b52d01577b32dc6483",
+    "bytes": 293492,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "name": "Normalization.csv",
+    "article_id": 16676266,
+    "file_id": 30874189,
+    "download_url": "https://ndownloader.figshare.com/files/30874189",
+    "md5": "3c06181e00d544cd552fbe86f16314dc",
+    "sha256": "957bae7af3266b5317eb8eda49a8a65f587d33f04794cda25f1062f12265eaa6",
+    "bytes": 433,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  }
+]
