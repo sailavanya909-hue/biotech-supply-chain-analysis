@@ -21,7 +21,9 @@ These are descriptive findings, not causal effects, verified cost savings, or ba
 
 The dashboard includes strength/product cohort filters, volume-weighted monthly yield, product-code gap concentration, a yield–drug-release scatterplot, raw versus within-product associations, and a searchable batch/material-lineage explorer. An adjustable yield-review threshold is an analyst control, not a regulatory specification.
 
-Open the [dashboard source](site/), or serve it locally. To publish it through GitHub Pages, choose **Settings → Pages → Deploy from a branch → main → /docs**. The repository includes a ready-to-host copy under `docs/`.
+**[Open the live dashboard](https://sailavanya909-hue.github.io/biotech-supply-chain-analysis/)** · [Dashboard source](site/)
+
+GitHub Pages publishes the prepared dashboard from **main → /docs**. You can also serve `site/` locally.
 
 ## Reproduce
 
